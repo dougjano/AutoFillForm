@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Douglas Jano</authors>
+    <owners>Douglas Jano</owners>
+    <projectUrl>https://github.com/dougjano?tab=repositories</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Website form auto filler, after some time, all passed field are filled and form is submitted. .Net Framework Version</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>form filler automation</tags>
+  </metadata>
+</package>
